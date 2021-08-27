@@ -7,7 +7,7 @@ def main():
         else:
             return False
  
-    year = int(input('Give me the year: '))
+    year = int(input(''))
  
     is_bisiesto(year)
  
