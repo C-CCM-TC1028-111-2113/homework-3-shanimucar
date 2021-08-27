@@ -6,7 +6,7 @@ def main():
     b=float(input('Dame la base: '))
     h = float(input('Dame la altura: '))
     d = float(input('Dame la profundidad: '))
-    print('El volumen del prisma es:, volumen(b, h, d))
+    print('El volumen del prisma es:', volumen(b, h, d))
                    
                        
 if __name__=='__main__':
