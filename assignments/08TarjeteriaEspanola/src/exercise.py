@@ -15,7 +15,7 @@ def main():
     papel = int(input('Dame la cantidad de pliegos de papel albanene: '))
     plumones = int(input('Dame la cantidad de plumones: '))
 
-num_tarjetas(papel, plumones)
+    num_tarjetas(papel, plumones)
 
 if __name__=='__main__':
     main()
