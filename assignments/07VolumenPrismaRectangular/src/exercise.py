@@ -9,7 +9,7 @@ def main():
     
     def volumen_prisma(area, altura):
         volumen = (area)*(altura)
-        print('El volumen del prisma es: ', volumen)
+        print('El volumen del prisma es:', volumen)
 
     base = float(input('Dame la base: '))
     altura = float(input('Dame la altura: '))
