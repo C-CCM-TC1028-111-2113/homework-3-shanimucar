@@ -1,7 +1,6 @@
 
 def main():
     #escribe tu código abajo de esta línea
-    import math
     
     def area_rect(base, profundidad):
         area = base * profundidad
